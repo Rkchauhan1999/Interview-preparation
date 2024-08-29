@@ -1,0 +1,85 @@
+******************************Java Interview Questions ********************************************* 
+
+"I’m sorry,I’ve worked with the String class, but the exact answer is not coming in my mind right now."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+***************************************   Java Questions    ****************************************************
+✴️ Basic Java Concepts:
+1. What are the main principles of Object-Oriented Programming (OOP)?
+2. Explain the difference between == and equals() method in Java.
+3. What is a ClassLoader in Java?
+4. What is the difference between an abstract class and an interface?
+5. What is a singleton class and how do you implement it?
+6. What do you mean by polymorphism in java?
+7. What is the difference between Method Overloading and Overriding in java? 
+8. What is the difference between String, StringBuilder, and StringBuffer?
+9. What is the difference between final, finally, and finalize()?
+10. What are the access Modifiers/Specifiers in Java?
+11. Explain the concept of garbage collection in Java. How does it work?
+12. What is the significance of the hashCode() and equals() methods?
+
+✴️ DataStructures Basic
+1. How do you implement a linked list in Java?
+2. Describe how a HashMap internally works in Java.
+3. Write a program to reverse a string in Java.
+4. How would you find the maximum value in an array?
+5. Explain the concept of a binary search tree and write code to perform an in-order traversal.
+
+✴️ Multithreading and Concurrency
+1. What is the difference between Runnable and Callable in Java?
+2. Explain the synchronized keyword and its use cases.
+3. What are the different ways to create a thread in Java? 
+4. What is a deadlock and how can it be prevented?
+5. What is the volatile keyword in Java?
+
+✴️ Java Collections Framework
+1. What is the difference between ArrayList and LinkedList?
+2. How does a HashSet store elements (or any collection)?
+3. Explain the differences between HashMap and TreeMap.
+4. How would you sort a list of objects in Java?
+5. What is the purpose of the ConcurrentHashMap class?
+6. Explain Comparator and Comparable in java.
+
+✴️ Exception Handling
+1. What are the different types of exceptions in Java? How do you handle them?
+2. Explain the use of try-catch-finally blocks.
+3. How do you create a custom exception in Java?
+4. What is the difference between throw and throws?
+5. What is the try-with-resources statement in Java?
+
+✴️ Java 8 Features
+1. What are lambda expressions in Java? Provide an example.
+2. Explain the Stream API in Java 8.
+3. Explain Java 8 Stream API - Filter,Map and Collect Methods
+4. What is a functional interface?
+5. How do you use the Optional class?
+6. What are default and static methods in interfaces?
+7. What do you mean by Method Refernce (::) in java?
+
+ Design Patterns
+1. What is the Singleton pattern and how do you implement it in Java?
+2. Explain the Factory pattern with an example.
+3. What is the Observer pattern and where is it used?
+4. Describe the Decorator pattern and its use case.
+5. What is the difference between the Proxy and Adapter patterns?
+
+---------------------------------------------------------------------------------------------------------
+HashMap  vs HashTable
+Java 17 New Features (Sealed Class, Pattern Matching , Enhanced switch Statements)
+local variables vs instance variables
+How Can You Make a Class Immutable?
+Why Is the String Object Immutable in Java?
+how many ways to create object in java
