@@ -10,12 +10,6 @@
 
 
 
-
-
-
-
-
-
 ***************************************   Java Questions    ****************************************************
 ✴️ Basic Java Concepts:
 1. What are the main principles of Object-Oriented Programming (OOP)?
