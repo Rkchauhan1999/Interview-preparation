@@ -77,3 +77,4 @@ local variables vs instance variables
 How Can You Make a Class Immutable?
 Why Is the String Object Immutable in Java?
 how many ways to create object in java
+Why HashTable Doesn’t Allow null and HashMap Do?
