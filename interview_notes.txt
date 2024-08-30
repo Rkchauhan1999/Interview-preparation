@@ -27,10 +27,11 @@
 
 ✴️ DataStructures Basic
 1. How do you implement a linked list in Java?
-2. Describe how a HashMap internally works in Java.
+2. Describe how a HashMap internally works in Java. [ https://www.javatpoint.com/working-of-hashmap-in-java ]
 3. Write a program to reverse a string in Java.
 4. How would you find the maximum value in an array?
 5. Explain the concept of a binary search tree and write code to perform an in-order traversal.
+6. What is Hashing in java and why?
 
 ✴️ Multithreading and Concurrency
 1. What is the difference between Runnable and Callable in Java?
